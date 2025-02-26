@@ -1,0 +1,51 @@
+{
+  "win64": {
+    "alpha": {
+      "released": "0000000000",
+      "testing": "0000000000",
+      "link": "/tx64/tx64upd{version}_{signature}"
+    },
+    "beta": {
+      "released": "0000000000",
+      "testing": "0000000000",
+      "link": "/tx64/tx64upd{version}"
+    },
+    "stable": {
+      "released": "1000016",
+      "testing": "1000016",
+      "link": "/tx64/tx64upd{version}"
+    }
+  },
+  "win32": {
+    "alpha": {
+      "released": "0000000000",
+      "testing": "0000000000",
+      "link": "/tx32/tx32upd{version}_{signature}"
+    },
+    "beta": {
+      "released": "0000000000",
+      "testing": "0000000000",
+      "link": "/tx32/tx32upd{version}"
+    },
+    "stable": {
+      "released": "1000016",
+      "testing": "1000016",
+      "link": "/tx32/tx32upd{version}"
+    }
+  },
+  "linux": {
+    "alpha": {
+      "released": "0000000000",
+      "testing": "0000000000",
+      "link": "/tlinux/tlinuxupd{version}_{signature}"
+    },
+    "beta": {
+      "released": "0000000",
+      "link": "/tlinux/tlinuxupd{version}"
+    },
+    "stable": {
+      "released": "0000000",
+      "link": "/tlinux/tlinuxupd{version}"
+    }
+  }
+}
