@@ -11,8 +11,8 @@
       "link": "/tx64/tx64upd{version}"
     },
     "stable": {
-      "released": "1000016",
-      "testing": "1000016",
+      "released": "1000018",
+      "testing": "1000018",
       "link": "/tx64/tx64upd{version}"
     }
   },
@@ -28,8 +28,8 @@
       "link": "/tx32/tx32upd{version}"
     },
     "stable": {
-      "released": "1000016",
-      "testing": "1000016",
+      "released": "1000018",
+      "testing": "1000018",
       "link": "/tx32/tx32upd{version}"
     }
   },
